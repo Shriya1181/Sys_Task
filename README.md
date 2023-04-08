@@ -1,5 +1,5 @@
-* Launch 2 more containers using same code<running container 2> <running container 3>
-* We can check that all are running using docker ps <docker ps all 3 containers running>
-* we get the ip address of the new containers and update the nginx conf file <get ip addess of the new containers> <changes made to nginx.conf>
-* create an nginx container once again <build nginx once again> <run nginx after creating multiple containers>
-* to check if all is working correctly <all containers running> <all containers working simultaneously>
+* Launch 2 more containers using same code "File: running container 2.png" "File: running container 3.png"
+* We can check that all are running using docker ps "File: docker ps all 3 containers running.png"
+* we get the ip address of the new containers and update the nginx conf file "File: get ip addess of the new containers.png" "File: changes made to nginx.conf.png"
+* create an nginx container once again "File: build nginx once again.png" "File: run nginx after creating multiple containers.png"
+* to check if all is working correctly "File: all containers running.png" "File: all containers working simultaneously.png"
